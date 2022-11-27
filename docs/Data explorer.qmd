@@ -26,4 +26,4 @@ When you click the **Render** button a presentation will be generated that inclu
 
 ## Figura
 
-![](images/logo_cete_vector_min.png)
+![](logo_cete_vector_min.png)

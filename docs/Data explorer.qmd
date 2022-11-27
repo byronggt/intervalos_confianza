@@ -1,11 +1,11 @@
 ---
-title: "Data Explorer"
+title: "Intervalos de confianza"
 author: "Dr. Byron González"
 format: revealjs
 editor: visual
 ---
 
-## Análisis exploratorio de datos
+## Intervalos de confianza
 
 Se empleará el archivo de "peces bentónicos" <https://quarto.org/docs/presentations/>.
 

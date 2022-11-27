@@ -1,0 +1,29 @@
+---
+title: "Data Explorer"
+author: "Dr. Byron González"
+format: revealjs
+editor: visual
+---
+
+## Análisis exploratorio de datos
+
+Se empleará el archivo de "peces bentónicos" <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+## Figura
+
+![](images/logo_cete_vector_min.png)
